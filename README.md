@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @D2b906
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning 3D Design
+- 📫 How to reach me d2b906@gmail.com
