@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @D2b906
-- 👀 I like programming in Unity, Python, and Plain C#
+- 👀 I'm new to Git. I like programming in C#.
